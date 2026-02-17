@@ -3,6 +3,27 @@
  * (c) 2016 Josh Cope
  * licensed under MIT
  */
+
+.royal-fade-nav-logo {
+  display: flex;
+  align-items: center;
+}
+
+.royal-fade-nav-logo img {
+  max-height: 70px;
+  max-width: 850px;
+}
+
+.royal-fade-footer-nav-logo {
+  display: flex;
+  align-items: center;
+}
+
+.royal-fade-footer-nav-logo img {
+  max-height: 60px;
+  max-width: 600px;
+}
+
 .slicknav_btn {
   position: relative;
   display: block;
