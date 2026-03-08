@@ -4,6 +4,19 @@
  * licensed under MIT
  */
 
+ .gallery-video{
+    width:100%;
+    height: 700px;
+    overflow:hidden;
+}
+
+.gallery-video video{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+
 .royal-fade-nav-logo {
   display: flex;
   align-items: center;
